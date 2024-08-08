@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ganesh
 - 👀 I’m interested in Data Analyst...
 - 🌱 I’m currently learning  ...
-  
+- 🧑‍🏫 Check out my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/09c46681-db20-44fd-8fa5-c8aeb96c1ea9).
 <!---
 AA1-34-Ganesh/AA1-34-Ganesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
