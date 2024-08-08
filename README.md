@@ -6,8 +6,7 @@
 
 
 
-
-[![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/1st-ganesh-07b88028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/1st-ganesh-07b88028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <!---
 AA1-34-Ganesh/AA1-34-Ganesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
