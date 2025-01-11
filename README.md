@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesh, Second Year student. 
-- 👀 I’m interested in Data Analyst...
-- 🌱 I’m currently learning  ...
+- 👀 I’m interested in Artificial intelligence and Machine learning ...
+- 🌱 I’m currently learning  Machine learning ...
 - 🧑‍🏫 Check out my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/09c46681-db20-44fd-8fa5-c8aeb96c1ea9). 
 
 
@@ -18,7 +18,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AA1-34-Ganesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=AA1-34-Ganesh&icon=0&color=0)](https://visitcount.itsvg.in)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AA1-34-Ganesh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 
 
