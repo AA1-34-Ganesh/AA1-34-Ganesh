@@ -18,10 +18,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AA1-34-Ganesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AA1-34-Ganesh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
-
-
-
 
 
