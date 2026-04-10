@@ -1,3 +1,4 @@
+[![Scan Guard](https://ynxrjocuwgljdyfpcdjd.supabase.co/functions/v1/badge/AA1-34-Ganesh)](https://scan-guard-io.lovable.app)
 # Hi  I'm Ganesh
 
 I'm currently working on **I am currently working on full stack ai application.**
