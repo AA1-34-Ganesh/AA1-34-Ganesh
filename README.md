@@ -1,4 +1,3 @@
-[![Scan Guard](https://ynxrjocuwgljdyfpcdjd.supabase.co/functions/v1/badge/AA1-34-Ganesh)](https://scan-guard-io.lovable.app)
 # Hi  I'm Ganesh
 
 **I am currently working on full stack ai application.**
@@ -12,7 +11,9 @@ Ask me about **React, javascript and html, css ,Java**
 
 ## 📊 GitHub Stats:
 ![AA1-34-Ganesh'sGitHubstats](https://github-stats-alpha.vercel.app/api?username=AA1-34-Ganesh&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d)![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AA1-34-Ganesh&theme=dark&hide_border=true&layout=compact)
-
+## Coding Platforms:
+<a href="https://leetcode.com/u/Coder_ganesh">LeetCode</a>
+<a href="https://www.hackerrank.com/profile/guntaganesh1">HackerRank</a>
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
