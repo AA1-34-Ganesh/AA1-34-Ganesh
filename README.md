@@ -16,6 +16,3 @@ Ask me about **React, javascript and html, css ,Java**
 <a href="https://www.hackerrank.com/profile/guntaganesh1">HackerRank</a>
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=AA1-34-Ganesh&style=for-the-badge&color=blue)
