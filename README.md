@@ -1,7 +1,7 @@
 # Hi  I'm Ganesh
 
 **I am currently working on full stack ai application.**
-Ask me about **NodeJs,React, javascript and html, css ,Java**
+Ask me about **NodeJs,React,Javascript and Html, CSS ,Java**
 
 ## 🌐 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/gunta-ganesh-07b88028b)
